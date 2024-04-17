@@ -7,5 +7,4 @@ Das ist der Startercode für die ersten Sessions im Kurs Frontend-Development. W
 - [Über Frontend-Development](https://th-koeln.github.io/mi-bachelor-webdevelopment/frontend-development/)
 
 ## Credits 📝
-
-Der Content für diese Aufgabe basiert auf Inhalten der Website [chefkoch.de](https://www.chefkoch.de).
+Als Grundlage für diese und die folgenden Aufgaben dient das Projektergebnis von Yassin El Fraygui und Maximilian Kellner, welches im Rahmen von Screendesign im letzten Semester entstanden ist.
